@@ -1,1 +1,1 @@
-# steam-game-finder-extension
+# steambuddy-extension

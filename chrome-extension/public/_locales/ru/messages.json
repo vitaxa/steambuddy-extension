@@ -1,0 +1,18 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "Проверяет присутствие игры на других игровых платформах"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "SteamBuddy"
+  },
+  "otherStores": {
+    "description": "Other store when you can find this game",
+    "message": "Другие магазины"
+  },
+  "otherStoresNotFound": {
+    "description": "When can't find this game in other stores",
+    "message": "Другие магазины не найдены"
+  }
+}
